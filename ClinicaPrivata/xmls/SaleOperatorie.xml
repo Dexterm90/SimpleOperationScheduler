@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <SaleOperatorie>
+    <SalaOperatoria codice="AAAA11" />
+    <SalaOperatoria codice="BBBB22" />
+    <SalaOperatoria codice="CCCC33" />
+    <SalaOperatoria codice="DDDD44" />
+    <SalaOperatoria codice="EEEE55" />
+  </SaleOperatorie>
+</Documento>

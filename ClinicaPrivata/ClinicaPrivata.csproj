@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F74BD95-CD1A-436C-BC98-55A58B26AAE1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClinicaPrivata</RootNamespace>
+    <AssemblyName>ClinicaPrivata</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Presenters\CartellaClinicaSetter.cs" />
+    <Compile Include="Presenters\Attributes\EditableEnumerableAttribute.cs" />
+    <Compile Include="Model\GeneratoreAutomaticoIntervento.cs" />
+    <Compile Include="Presenters\Attributes\NotYetEditableAttribute.cs" />
+    <Compile Include="Presenters\Attributes\EditableAttribute.cs" />
+    <Compile Include="Model\Calendario.cs" />
+    <Compile Include="Model\Dipendenti.cs" />
+    <Compile Include="Model\Documento.cs" />
+    <Compile Include="Model\Factory\SpecializzazioneFactory.cs" />
+    <Compile Include="Model\Factory\TipologiaInterventoFactory.cs" />
+    <Compile Include="Model\Filtri.cs" />
+    <Compile Include="Model\FiltroBuilder.cs" />
+    <Compile Include="Model\FiltroDescriptor.cs" />
+    <Compile Include="Model\ICalendario.cs" />
+    <Compile Include="Model\IFiltroInterventi.cs" />
+    <Compile Include="Model\Intervento.cs" />
+    <Compile Include="Model\Paziente.cs" />
+    <Compile Include="Model\SalaOperatoria.cs" />
+    <Compile Include="Model\Specializzazione.cs" />
+    <Compile Include="Model\StatoIntervento.cs" />
+    <Compile Include="Model\TipologiaIntervento.cs" />
+    <Compile Include="Persistence\DocumentoLoader.cs" />
+    <Compile Include="Persistence\DocumentoPersister.cs" />
+    <Compile Include="Persistence\IDocumentoLoader.cs" />
+    <Compile Include="Persistence\IDocumentoPersister.cs" />
+    <Compile Include="Presenters\CalendarioMedicoHelper.cs" />
+    <Compile Include="Presenters\Presenter.cs" />
+    <Compile Include="Presenters\PrenotaInterventi.cs" />
+    <Compile Include="Presenters\SegretariHelper.cs" />
+    <Compile Include="View\CustomGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presenters\MediciHelper.cs" />
+    <Compile Include="Presenters\InterventiHelper.cs" />
+    <Compile Include="Presenters\InterventiManager.cs" />
+    <Compile Include="Presenters\IViewHelper.cs" />
+    <Compile Include="Presenters\PazientiHelper.cs" />
+    <Compile Include="Presenters\SaleHelper.cs" />
+    <Compile Include="Presenters\TipologieInterventoHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\EditingControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\EditingControl.designer.cs">
+      <DependentUpon>EditingControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ConfermaDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ConfermaDialog.Designer.cs">
+      <DependentUpon>ConfermaDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\GestioneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\GestioneForm.Designer.cs">
+      <DependentUpon>GestioneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InterventiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InterventiForm.Designer.cs">
+      <DependentUpon>InterventiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LoginDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LoginDialog.designer.cs">
+      <DependentUpon>LoginDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\CalendarioInterventi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\CalendarioInterventi.Designer.cs">
+      <DependentUpon>CalendarioInterventi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\CartellaClinicaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\CartellaClinicaForm.Designer.cs">
+      <DependentUpon>CartellaClinicaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\InterventiGiornalieri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\InterventiGiornalieri.Designer.cs">
+      <DependentUpon>InterventiGiornalieri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\InfoPazienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\InfoPazienteForm.Designer.cs">
+      <DependentUpon>InfoPazienteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\PazientiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\PazientiForm.Designer.cs">
+      <DependentUpon>PazientiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Medico\MedicoMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Medico\MedicoMainForm.Designer.cs">
+      <DependentUpon>MedicoMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Segretario\Amministratore\GestioneDipendentiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Segretario\Amministratore\GestioneDipendentiForm.Designer.cs">
+      <DependentUpon>GestioneDipendentiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Segretario\PrenotaInterventoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Segretario\PrenotaInterventoForm.Designer.cs">
+      <DependentUpon>PrenotaInterventoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Segretario\SegretarioMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Segretario\SegretarioMainForm.Designer.cs">
+      <DependentUpon>SegretarioMainForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\EditingControl.resx">
+      <DependentUpon>EditingControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ConfermaDialog.resx">
+      <DependentUpon>ConfermaDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\GestioneForm.resx">
+      <DependentUpon>GestioneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InterventiForm.resx">
+      <DependentUpon>InterventiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoginDialog.resx">
+      <DependentUpon>LoginDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\CalendarioInterventi.resx">
+      <DependentUpon>CalendarioInterventi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\CartellaClinicaForm.resx">
+      <DependentUpon>CartellaClinicaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\InterventiGiornalieri.resx">
+      <DependentUpon>InterventiGiornalieri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\InfoPazienteForm.resx">
+      <DependentUpon>InfoPazienteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\PazientiForm.resx">
+      <DependentUpon>PazientiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Medico\MedicoMainForm.resx">
+      <DependentUpon>MedicoMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Segretario\Amministratore\GestioneDipendentiForm.resx">
+      <DependentUpon>GestioneDipendentiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Segretario\PrenotaInterventoForm.resx">
+      <DependentUpon>PrenotaInterventoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Segretario\SegretarioMainForm.resx">
+      <DependentUpon>SegretarioMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="xmls\Dipendenti.xml" />
+    <Content Include="xmls\Interventi.xml" />
+    <Content Include="xmls\Pazienti.xml" />
+    <Content Include="xmls\SaleOperatorie.xml" />
+    <Content Include="xmls\Specializzazioni.xml" />
+    <Content Include="xmls\TipologieIntervento.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

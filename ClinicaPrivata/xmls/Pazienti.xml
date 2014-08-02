@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <Pazienti>
+    <Paziente nome="Michael" cognome="Cavina" cf="AAABBB00C11D222E" luogoDiNascita="Castel Bolognese" dataDiNascita="17/05/90" telefono="3803494829">
+      <Indirizzo via="NonSoDove" numeroCivico="1" località="Castel Bolognese" cap="48014" provincia="RA" nazione="Italia" />
+      <CartellaClinica patologie="" allergie="Simone" fattoreRh="0" gruppoSanguigno="1" />
+    </Paziente>
+    <Paziente nome="Marco" cognome="Destro" cf="FFFGGG33H44I555L" luogoDiNascita="Cattolica" dataDiNascita="10/09/90" telefono="3343006049">
+      <Indirizzo via="Montefeltro" numeroCivico="15" località="Rimini" cap="47923" provincia="RN" nazione="Italia" />
+      <CartellaClinica patologie="cervello grande" allergie="Simone" fattoreRh="1" gruppoSanguigno="2" />
+    </Paziente>
+    <Paziente nome="Simone" cognome="Calisesi" cf="MMMNNN66O77P888Q" luogoDiNascita="Rimini" dataDiNascita="27/12/90" telefono="3343118748">
+      <Indirizzo via="Carlo Lucchesi" numeroCivico="7" località="Rimini" cap="47923" provincia="RN" nazione="Italia" />
+      <CartellaClinica patologie="" allergie="Timer" fattoreRh="0" gruppoSanguigno="0" />
+    </Paziente>
+  </Pazienti>
+</Documento>

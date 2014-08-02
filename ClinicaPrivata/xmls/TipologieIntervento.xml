@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <TipologieIntervento>
+    <tipologiaIntervento nome="tipologiaIntervento1" descrizione="descrizione1" durata="1">
+      <specializzazioni>
+        <specializzazione id="1" num="1" />
+        <specializzazione id="2" num="1" />
+      </specializzazioni>
+      <sale>
+        <sala codice="AAAA11" />
+      </sale>
+    </tipologiaIntervento>
+    <tipologiaIntervento nome="tipologiaIntervento2" descrizione="descrizione2" durata="2">
+      <specializzazioni>
+        <specializzazione id="1" num="2" />
+        <specializzazione id="3" num="1" />
+      </specializzazioni>
+      <sale>
+        <sala codice="AAAA11" />
+        <sala codice="CCCC33" />
+        <sala codice="DDDD44" />
+      </sale>
+    </tipologiaIntervento>
+    <tipologiaIntervento nome="tipologiaIntervento3" descrizione="descrizione3" durata="3">
+      <specializzazioni>
+        <specializzazione id="2" num="2" />
+      </specializzazioni>
+      <sale>
+        <sala codice="BBBB22" />
+        <sala codice="CCCC33" />
+        <sala codice="EEEE55" />
+      </sale>
+    </tipologiaIntervento>
+  </TipologieIntervento>
+</Documento>

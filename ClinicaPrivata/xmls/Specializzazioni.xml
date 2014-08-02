@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <Specializzazioni>
+    <specializzazione descrizione="spec1" />
+    <specializzazione descrizione="spec2" />
+    <specializzazione descrizione="spec3" />
+  </Specializzazioni>
+</Documento>

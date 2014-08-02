@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <Dipendenti>
+    <Medico nome="A" cognome="A" cf="AAAAAAAAAAAAAAAA" username="A" password="A" codiceOrdineMedici="11111" specializzazione="spec1" />
+    <Medico nome="B" cognome="B" cf="BBBBBBBBBBBBBBBB" username="B" password="B" codiceOrdineMedici="22222" specializzazione="spec1" />
+    <Medico nome="C" cognome="C" cf="CCCCCCCCCCCCCCCC" username="C" password="C" codiceOrdineMedici="33333" specializzazione="spec2" />
+    <Medico nome="D" cognome="D" cf="DDDDDDDDDDDDDDDD" username="D" password="D" codiceOrdineMedici="44444" specializzazione="spec2" />
+    <Medico nome="E" cognome="E" cf="EEEEEEEEEEEEEEEE" username="E" password="E" codiceOrdineMedici="55555" specializzazione="spec1" />
+    <Medico nome="F" cognome="F" cf="FFFFFFFFFFFFFFFF" username="F" password="F" codiceOrdineMedici="66666" specializzazione="spec3" />
+    <Medico nome="G" cognome="G" cf="GGGGGGGGGGGGGGGG" username="G" password="G" codiceOrdineMedici="77777" specializzazione="spec3" />
+    <Medico nome="H" cognome="H" cf="HHHHHHHHHHHHHHHH" username="H" password="H" codiceOrdineMedici="88888" specializzazione="spec1" />
+    <Medico nome="I" cognome="I" cf="IIIIIIIIIIIIIIII" username="I" password="I" codiceOrdineMedici="99999" specializzazione="spec1" />
+    <Segretario nome="S1" cognome="S1" cf="S1S1S1S1S1S1S1S1" username="S1" password="S1" />
+    <Segretario nome="S2" cognome="S2" cf="S2S2S2S2S2S2S2S2" username="S2" password="S2" />
+    <Amministratore nome="ADMIN" cognome="ADMIN" cf="ADMINADMINADMIN" username="ADMIN" password="ADMIN" />
+  </Dipendenti>
+</Documento>

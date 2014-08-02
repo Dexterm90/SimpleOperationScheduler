@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documento>
+  <Interventi>
+    <intervento data="04/09/12" oraDiInizio="9" cfPaziente="AAABBB00C11D222E" idTipologiaIntervento="1" codiceSalaOperatoria="AAAA11" esito="Positivo" note="Tutto ok">
+      <medico codiceOrdineMedici="11111" />
+      <medico codiceOrdineMedici="33333" />
+    </intervento>
+    <intervento data="06/09/12" oraDiInizio="9" cfPaziente="FFFGGG33H44I555L" idTipologiaIntervento="3" codiceSalaOperatoria="BBBB22">
+      <medico codiceOrdineMedici="33333" />
+      <medico codiceOrdineMedici="44444" />
+    </intervento>
+    <intervento data="04/09/12" oraDiInizio="10" cfPaziente="MMMNNN66O77P888Q" idTipologiaIntervento="1" codiceSalaOperatoria="AAAA11" esito="Negativo" note="Intervento fallito">
+      <medico codiceOrdineMedici="11111" />
+      <medico codiceOrdineMedici="33333" />
+    </intervento>
+    <intervento data="04/09/12" oraDiInizio="9" cfPaziente="FFFGGG33H44I555L" idTipologiaIntervento="2" codiceSalaOperatoria="CCCC33" esito="Positivo" note="">
+      <medico codiceOrdineMedici="22222" />
+      <medico codiceOrdineMedici="55555" />
+      <medico codiceOrdineMedici="66666" />
+    </intervento>
+  </Interventi>
+</Documento>

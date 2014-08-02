@@ -1,0 +1,750 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\Progetto con modifiche Michael\Implementazione\VersioneSenzaErrori\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata Model + Persistence + xml 06-08-12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata Model NEW NEW NEW\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata Model NEW x 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 3\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 4\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 5\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 6\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 7\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 8\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Dropbox\Progetto\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Dropbox\Progetto\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 9\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 10\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneMedici.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.GestioneSegretari.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 11\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\Progetto\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 12\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 13\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 13\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 14\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 15\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 16\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 18\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.AmministratoreMainForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 18\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 19\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simone\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 20\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\admin\Desktop\ClinicaPrivata 21\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.csproj.GenerateResource.Cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 22\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\bin\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\bin\Debug\ClinicaPrivata.pdb
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.Properties.Resources.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.EditingControl.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.ConfermaDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.GestioneForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.InterventiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.LoginDialog.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CalendarioInterventi.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.CartellaClinicaForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InterventiGiornalieri.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.InfoPazienteForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.PazientiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Medico.MedicoMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.Amministratore.GestioneDipendentiForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.PrenotaInterventoForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.View.Segretario.SegretarioMainForm.resources
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Dexter\Dropbox\Progetto\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
+C:\Users\Simone\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.exe
+C:\Users\Simone\Desktop\ClinicaPrivata 23\ClinicaPrivata\obj\x86\Debug\ClinicaPrivata.pdb
